@@ -9,7 +9,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import salam.aplikasi.wisatabandung.R;
-
+//    NIM : 10117245 NAMA :Azhari Zandia
 public class AboutFragment extends Fragment {
 
     @Override

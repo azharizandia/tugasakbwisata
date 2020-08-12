@@ -16,7 +16,7 @@ import mehdi.sakout.fancybuttons.FancyButton;
 import salam.aplikasi.wisatabandung.R;
 
 public class DestinationDetailActivity extends AppCompatActivity {
-
+//    NIM : 10117245 NAMA :Azhari Zandia
     String googleMap = "com.google.android.apps.maps"; //
     Uri gmmIntentUri;
     Intent mapIntent;

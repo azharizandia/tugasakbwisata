@@ -8,47 +8,58 @@
     android:padding="10dp">
 
     <LinearLayout
-        android:layout_width="match_parent"
-        android:orientation="vertical"
-        android:layout_height="wrap_content">
+        android:layout_width="396dp"
+        android:layout_height="577dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="99dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:text="Profile"
+            android:textColor="@android:color/black"
+            android:textSize="30sp"
+            android:visibility="visible" />
 
         <ImageView
             android:id="@+id/imgAvatar"
+            android:layout_width="371dp"
+            android:layout_height="286dp"
             android:layout_gravity="center"
-            android:layout_width="170dp"
-            android:layout_height="300dp"
-            android:src="@drawable/ic_baseline_account_circle_24"
-            android:background="#00000000" />
+            android:background="#00000000"
+            android:src="@drawable/ic_baseline_account_circle_24" />
 
         <TextView
+            android:layout_width="311dp"
+            android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:textSize="24sp"
-            android:textColor="@android:color/black"
             android:layout_marginTop="20dp"
-            android:visibility="visible"
-            android:text="Hari kurniawan"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content" />
+            android:text="Azhari Zandia"
+            android:textColor="@android:color/black"
+            android:textSize="30sp"
+            android:visibility="visible" />
 
         <TextView
+            android:layout_width="310dp"
+            android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:textSize="24sp"
-            android:textColor="@android:color/black"
             android:layout_marginTop="10dp"
-            android:visibility="visible"
-            android:text="10117269"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content" />
+            android:text="10117245"
+            android:textColor="@android:color/black"
+            android:textSize="30sp"
+            android:visibility="visible" />
 
         <TextView
+            android:layout_width="302dp"
+            android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:textSize="24sp"
-            android:textColor="@android:color/black"
             android:layout_marginTop="10dp"
-            android:visibility="visible"
             android:text="IF-8"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content" />
+            android:textColor="@android:color/black"
+            android:textSize="30sp"
+            android:visibility="visible" />
 
     </LinearLayout>
 </LinearLayout>

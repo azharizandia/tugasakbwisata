@@ -10,7 +10,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import salam.aplikasi.wisatabandung.R;
 
 public class SplashScreenActivity extends AppCompatActivity {
-
+    //    NIM : 10117245 NAMA :Azhari Zandia
     Activity activity;
 
     @Override

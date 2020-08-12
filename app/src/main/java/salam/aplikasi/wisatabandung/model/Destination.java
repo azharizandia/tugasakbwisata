@@ -1,5 +1,5 @@
 package salam.aplikasi.wisatabandung.model;
-
+//    NIM : 10117245 NAMA :Azhari Zandia
 public class Destination {
     private String name;
     private String location;

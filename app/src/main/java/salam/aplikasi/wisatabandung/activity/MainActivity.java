@@ -31,7 +31,7 @@ import salam.aplikasi.wisatabandung.fragment.PersonFragment;
 import salam.aplikasi.wisatabandung.fragment.DestinationFragment;
 
 public class MainActivity extends AppCompatActivity {
-
+    //    NIM : 10117245 NAMA :Azhari Zandia
     private Activity activity;
     private boolean doubleBackToExitPressedOnce = false;
     private TextView mTitleHeader;
